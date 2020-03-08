@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Daniele Filaretti"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-#name                     : "Daniele Filaretti"
+name                     : "Daniele Filaretti"
 description              : "Software Engineer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniele Filaretti"
+  #name             : "Daniele Filaretti"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer, Audio Software nerd, Music Producer"
   location         : "United Kingdom"

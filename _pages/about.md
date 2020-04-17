@@ -9,8 +9,8 @@ author_profile: true
 
 Hello! 😊
 
-I'm Daniele, a Software Engineer with a solid Computer Science background and a wide experience across several industries and fields. 
+I'm Dan, a Software Engineer with a strong Computer Science background and a passion for functional programming and music technology. 
 
-I currently focus on Audio Software development with C++, JUCE and Max/MSP and am available for freelance/contract projects.
+I program mostly in Haskell, Clojure and C++ (JUCE Framework). 
 
 Feel free to get in touch!

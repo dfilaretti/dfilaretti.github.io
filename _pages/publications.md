@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2019
 
-* [IELE: A Rigorously Designed Language and Tool Ecosystem for the Blockchain](../assets/downloads/papers/iele-fm-2019.pdf) with T. Kasampalis, D. Guth, B. Moore, T. Serbanuta, V. Serbanuta, G. Rosu and Ralph Johnson - publication descriptionInternational Symposium on Formal Methods 2019. 
+* [IELE: A Rigorously Designed Language and Tool Ecosystem for the Blockchain](../assets/downloads/papers/iele-fm-2019.pdf) with T. Kasampalis, D. Guth, B. Moore, T. Serbanuta, V. Serbanuta, G. Rosu and Ralph Johnson - International Symposium on Formal Methods 2019. 
 
 ### 2018
 

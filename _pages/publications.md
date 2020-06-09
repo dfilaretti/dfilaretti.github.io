@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2018
 
-* [IELE: An Intermediate-Level Blockchain Language Designed and Implemented Using Formal Semantics](../assets/downloads/papers/iele-2018-tech-report.pdf) with T. Kasampalis, D. Guth, B. Moore, T. Serbanuta, V. Serbanuta, G. Rosu and Ralph Johnson - 2018 
+* [IELE: A Rigorously Designed Language and Tool Ecosystem for the Blockchain](../assets/downloads/papers/iele-fm-2019.pdf) with T. Kasampalis, D. Guth, B. Moore, T. Serbanuta, V. Serbanuta, G. Rosu and Ralph Johnson - publication descriptionInternational Symposium on Formal Methods 2019. 
 
 * [A Digital App to Aid Detection, Monitoring, and Management of Dyslexia in Young Children (DIMMAND): Protocol for a Digital Health and Education Solution](http://www.researchprotocols.org/2018/5/e135/) with MR Sood, A. Toornstra, M. Sereno, M. Boland, A. Sood - 2018 
 

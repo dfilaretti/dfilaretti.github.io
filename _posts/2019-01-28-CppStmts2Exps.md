@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: Turning the switch statement into an expression
-excerpt: "A simple trick to rewrite your `switch` statements in a more functional, expression-oriented style using a lambda function."
+title: Turning C++'s switch statement into an expression
+excerpt: "During the last few months I got involved in audio software development with C++ and the Juce framework, and since at the same time I’ve been writing Haskell in my day job "
 ---
 
 During the last few months I got involved in audio software development with C++ and the Juce framework, and since at the same time I've been writing Haskell in my day job (as well as exploring other functional languages on my own) it didn't take me long to become curious about the whole "functional programming in C++" thing.

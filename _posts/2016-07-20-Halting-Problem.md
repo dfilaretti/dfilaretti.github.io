@@ -1,7 +1,8 @@
 ---
 layout: posts
 title: The Halting Problem
-excerpt: "Yet another Halting Problem blog post."
+excerpt: "Before looking at the _halting problem_, it is worth considering why it is interesting in the first place.
+One of the reasons the halting problem is important is that it is an entry point to a more fundamental issue: _is there anything that computers cannot do_?"
 ---
 
 Before looking at the _halting problem_, it is worth considering why it is interesting in the first place.

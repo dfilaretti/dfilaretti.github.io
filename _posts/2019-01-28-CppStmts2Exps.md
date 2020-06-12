@@ -1,10 +1,10 @@
 ---
 layout: posts
 title: Turning C++'s switch statement into an expression
-excerpt: "During the last few months I got involved in audio software development with C++ and the Juce framework, and since at the same time I’ve been writing Haskell in my day job "
+excerpt: "In the last few months I got involved in audio software development with C++ and the JUCE framework, and since at the same time I’ve been writing Haskell in my day job "
 ---
 
-During the last few months I got involved in audio software development with C++ and the Juce framework, and since at the same time I've been writing Haskell in my day job (as well as exploring other functional languages on my own) it didn't take me long to become curious about the whole "functional programming in C++" thing.
+In the last few months I got involved in audio software development with C++ and the JUCE framework, and since at the same time I've been writing Haskell in my day job (as well as exploring other functional languages on my own) it didn't take me long to become curious about the whole "functional programming in C++" thing.
 
 In this post I summarise a nice little trick I came across recently while [whatching talks](https://www.youtube.com/watch?v=YgcUuYCCV14) and [reading about C++](https://www.amazon.co.uk/Tour-C-Depth/dp/0134997832/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=0J2C5W50QPMSTGXF833X).
 

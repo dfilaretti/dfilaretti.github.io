@@ -7,7 +7,7 @@ type: pages
 author_profile: true
 ---
 
-Hello! 😊
+Hello!! 😊
 
 I'm Dan, a Software Engineer with a strong Computer Science background and a passion for audio and music technology. 
 

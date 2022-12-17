@@ -7,4 +7,4 @@ type: pages
 author_profile: true
 ---
 
-Polyglot software engineer with strong computer science and formal methods background and experience in diverse industries. Particularly interested in functional programming, music technology and anything in between.
+Coming soon!

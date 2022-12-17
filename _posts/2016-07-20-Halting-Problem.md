@@ -3,6 +3,7 @@ layout: posts
 title: The Halting Problem
 excerpt: "Before looking at the _halting problem_, it is worth considering why it is interesting in the first place.
 One of the reasons the halting problem is important is that it is an entry point to a more fundamental issue: _is there anything that computers cannot do_?"
+show_date: true
 ---
 
 Before looking at the _halting problem_, it is worth considering why it is interesting in the first place.

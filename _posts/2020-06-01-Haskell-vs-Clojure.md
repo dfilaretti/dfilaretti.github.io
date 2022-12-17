@@ -2,6 +2,7 @@
 layout: posts
 title: From Haskell to Clojure, and back
 excerpt: "During the last couple of years, I've been lucky enough to use both Haskell and Clojure professionally (at different companies) and in both cases it's been an enjoyable and rewarding experience."
+show_date: true
 ---
 
 During the last couple of years, I've been lucky enough to use Haskell and Clojure professionally (at different companies) and in both cases it's been a very enjoyable ride.

@@ -1,9 +1,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Software"
-    url: /software/
+#  - title: "Software"
+#    url: /software/
   - title: "Publications"
     url: /publications/
-  - title: "Music"
-    url: "https://soundcloud.com/danielefilaretti"
+#  - title: "Music"
+#    url: "https://soundcloud.com/danielefilaretti"

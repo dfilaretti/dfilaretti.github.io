@@ -24,4 +24,6 @@ Sometimes these two worlds overlap, like when I work on audio software or build 
 
 This website is where I write about things I find interesting, mostly programming, computer science, and occasionally music. It's also a place to share projects I've been working on.
 
+You can also check out my [LinkedIn profile](https://www.linkedin.com/in/danfilaretti/) or download my [CV](../assets/downloads/Daniele%20Filaretti%20CV%202026.pdf).
+
 Thanks for stopping by!

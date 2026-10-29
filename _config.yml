@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "catppuccin_mocha" # "default", "air", "aqua", "contr
 # Site Settings
 locale                   : "en"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Daniele Filaretti's website"
+title                    : "Dan's website"
 title_separator          : "-"
 #subtitle                 :  "Random thoughts about computer science, programming and music (technology)"
 name                     : "Daniele Filaretti's homepage"

@@ -19,7 +19,7 @@ locale                   : "en"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "Daniele Filaretti's website"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 :  "Random thoughts about computer science, programming and music (technology)"
 name                     : "Daniele Filaretti's homepage"
 description              : "Computer science, software and music"
 url                      : "https://danielefilaretti.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

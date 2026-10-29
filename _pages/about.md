@@ -7,7 +7,6 @@ type: pages
 author_profile: true
 ---
 
-# About me
 
 Hi, I'm Dan!
 

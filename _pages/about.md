@@ -10,10 +10,10 @@ author_profile: true
 
 Hi, I'm Dan!
 
-I'm a computer scientist, software engineer, and electronic music producer.
+I'm a computer scientist, software engineer, and electronic music artist.
 
 I have a PhD in Computer Science from Imperial College London,
-where I worked on formal methods and static analysis, and over 10 years of experience developing software professionally. Over the years I've worked on quite a variety of things, including compilers (MLIR/C++), functional programming (Haskell, Clojure), and audio software.
+where I worked on formal methods and static analysis, and over 10 years of experience developing software professionally. Over the years I've worked on quite a variety of things, including compilers (MLIR/C++), functional programming (Haskell, Clojure), audio software (JUCE) and blockchain.
 
 I've always been fascinated by programming languages, the theory behind them, and the process of turning interesting ideas into working software. I particularly enjoy problems that require a bit of thinking, learning something new, and coming up with elegant solutions.
 
